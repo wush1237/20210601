@@ -3,7 +3,7 @@ package com.Car;
 import javax.swing.*;
 
 public class CarWin {
-    
+
     static final int WIDTH = 800;
     static final int HEIGHT = 500;
 
